@@ -1,0 +1,173 @@
+
+#signup {
+	position: absolute;
+	width: 150px;
+	height: 20px;
+	z-index: 2;
+	top: 15%;
+	left: 43%;
+	font-size: 200%;
+	color: 	black;
+	white-space: nowrap;
+}
+
+#name {
+	position: absolute;
+	width: 150px;
+	height: 20px;
+	z-index: 2;
+	top: 22%;
+	left: 37%;
+	font-size: 170%;
+	color: 	black;
+	white-space: nowrap;
+}
+
+#phonenumber {
+	position: absolute;
+	width: 150px;
+	height: 20px;
+	z-index: 2;
+	top: 34%;
+	left: 37%;
+	font-size: 170%;
+	color: 	black;
+	white-space: nowrap;
+}
+
+#nametext {
+	position: absolute;
+	width: 300px;
+	height: 32px;
+	z-index: 2;
+	top: 28%;
+	left: 37%;
+	font-size: 150%;
+	color: black;
+	white-space: nowrap;
+	border-radius: 5px;
+}
+
+#phonetext {
+	position: absolute;
+	width: 300px;
+	height: 32px;
+	z-index: 2;
+	top: 40%;
+	left: 37%;
+	font-size: 150%;
+	color: 	black;
+	white-space: nowrap;
+	border-radius: 5px;
+}
+
+#password {
+	position: absolute;
+	width: 150px;
+	height: 20px;
+	z-index: 2;
+	top: 46%;
+	left: 37%;
+	font-size: 170%;
+	color: 	black;
+	white-space: nowrap;
+}
+
+#passwordtext {
+	position: absolute;
+	width: 300px;
+	height: 32px;
+	z-index: 2;
+	top: 52%;
+	left: 37%;
+	font-size: 150%;
+	color: black;
+	white-space: nowrap;
+	border-radius: 5px;
+}
+
+#panno {
+	position: absolute;
+	width: 150px;
+	height: 20px;
+	z-index: 2;
+	top: 58%;
+	left: 37%;
+	font-size: 170%;
+	color: 	black;
+	white-space: nowrap;
+}
+
+#pantext {
+	position: absolute;
+	width: 300px;
+	height: 32px;
+	z-index: 2;
+	top: 64%;
+	left: 37%;
+	font-size: 150%;
+	color: black;
+	white-space: nowrap;
+	border-radius: 5px;
+}
+
+#submit {
+	background: #0066A2;
+	color: white;
+	border-color: #0066A2;
+	height: 50px;
+	width: 100px;
+	position: absolute;
+	top: 74%;
+	right: 49%;
+	font: bold 15px arial, sans-serif;
+	z-index: 10;
+}
+#back {
+
+	color: white;
+	height: 59px;
+	width: 100px;
+	position: absolute;
+	top: 0%;
+	right: 0%;
+	background: #0066A2;
+	z-index:10;background-color:#556B2F; opacity:0.8;
+	font: bold 15px arial, sans-serif;
+	 
+	
+}
+
+.exptable{
+	  margin-top: 100px;
+	  margin-left:300px;
+	  border-collapse: collapse;
+	border-radius: 8px;
+	width: 50%;
+	  right:70%;
+	  
+	   
+	
+}
+
+
+#border {
+	border: 2px solid darkgrey;
+	border-radius: 5px;
+	position: absolute;
+	top: 12%;
+	right: 40%;
+	height: 580px;
+	width: 350px;
+	 opacity: 0.5;
+		background-color:	#556B2F;
+}
+#bar{
+	position: absolute;
+	top: 0%;
+	right: 0%;
+	height: 60px;
+	width: 1500px;
+	background-color:	#556B2F; 
+	opacity: 0.3;
+}
